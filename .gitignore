@@ -1,4 +1,7 @@
+#packrat
 packrat/lib*/
+packrat/*
+
 .Rproj.user
 
 # History files
